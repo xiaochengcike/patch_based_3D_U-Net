@@ -11,7 +11,8 @@ Measures a dice scores between the prediction and ground truth.
 Run test.py
 
 
-# neuron, patchlib, and medipy toolbox used in code from..
+# Required
+toolbox(ext) from
 Dr.Adrian Dalca's voxelmoprh
 https://github.com/voxelmorph/voxelmorph
 
