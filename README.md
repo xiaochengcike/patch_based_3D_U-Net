@@ -11,7 +11,7 @@ Measures a dice scores between the prediction and ground truth.
 Run test.py
 
 
-# Required
+# Citation
 toolbox(ext) from
 Dr.Adrian Dalca's voxelmoprh
 https://github.com/voxelmorph/voxelmorph
